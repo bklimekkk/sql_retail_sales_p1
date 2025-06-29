@@ -12,7 +12,7 @@ This project showcases SQL skills used in real-world data analytics for retail. 
 **1. Create and populate a retail sales table**  
 **2. Clean the data** by removing null or incomplete entries  
 **3. Perform exploratory data analysis (EDA)**  
-**4. Answer business questions using SQL
+**4. Answer business questions using SQL**
 
 ## Project Structure
 ### 1. Database Table Creation
